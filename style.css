@@ -1,0 +1,32 @@
+body {
+    background-color: #fff4e6;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #d9480f;
+    text-align: center;
+}
+
+h2 {
+    color: #e8590c;
+}
+
+p {
+    max-width: 600px;
+}
+
+ul {
+    list-style-type: square;
+    background-color: #ffe8cc;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+ol {
+    background-color: #ffd8a8;
+    padding: 15px;
+    border-radius: 8px;
+}
